@@ -24,16 +24,7 @@ public class EnemyController : EntityClass
 
     private void Start()
     {
-        level = 1;
-        maxHealth = 100f;
-        currentHealth = maxHealth;
-        healthRegen = 0f;
-        armor = 50f;
-        movementSpeed = 3f;
-        attackDamage = 20f;
-        attackSpeed = 1f;
-        attackRange = 2f;
-        goldValue = 10f;
+
     }
 
     private void Update()

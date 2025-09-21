@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class GameControllerScript : MonoBehaviour
 {
+    public int roundIntervalTime = 30; // seconds
+    public Vector3 spawnpoint = new Vector3(500, 0, 500);
+
     private static int raidLevel = 0;
     public static int RaidLevel
     {
@@ -11,11 +14,12 @@ public class GameControllerScript : MonoBehaviour
     }
     private MainTower tower;
     [SerializeField]
-    private GameObject[] enemies;
+    public GameObject enemies;
 
     private void Start()
     {
         tower = GameObject.FindGameObjectWithTag("MainTower").GetComponent<MainTower>();
+        tower.currentHealth = tower.maxHealth;
         StartCoroutine(WaveSpawner());
     }
 
@@ -34,8 +38,15 @@ public class GameControllerScript : MonoBehaviour
             Debug.Log("Raid Level: " + raidLevel);
 
             // Spawn enemies based on raidLevel here
+            for (int i = 0; i < raidLevel * 2; i++)
+            { 
+                // Example: spawn more enemies as raidLevel increases
+                Instantiate(enemies, new Vector3(Random.Range(-20, 20), 1, Random.Range(-10, 10)) + spawnpoint, Quaternion.identity);
+                Debug.Log("Spawned Enemy");
+                yield return new WaitForSeconds(1f); // Slight delay between spawns
+            }
 
-            yield return new WaitForSeconds(30f); // Wait for 30 seconds before next wave
+            yield return new WaitForSeconds(roundIntervalTime); // Wait for 30 seconds before next wave
         }
     }
 
@@ -43,20 +54,20 @@ public class GameControllerScript : MonoBehaviour
     {
         if (tower.currentHealth <= 0)
         {
-            GameOver();
+            //GameOver();
         }
     }
 
-    private void GameOver()
-    {
-        Debug.Log("Game Over! The Main Tower has been destroyed.");
-        // Implement additional game over logic here (e.g., stop spawning, show UI, etc.)
-        StopAllCoroutines();
-        enemies = GameObject.FindGameObjectsWithTag("Enemy");
-        foreach (var enemy in enemies)
-        {
-            Destroy(enemy);
-        }
-        // Oyun sonu sahnesi
-    }
+    //private void GameOver()
+    //{
+    //    Debug.Log("Game Over! The Main Tower has been destroyed.");
+    //    // Implement additional game over logic here (e.g., stop spawning, show UI, etc.)
+    //    StopAllCoroutines();
+    //    enemies = GameObject.FindGameObjectsWithTag("Enemy");
+    //    foreach (var enemy in enemies)
+    //    {
+    //        Destroy(enemy);
+    //    }
+    //    // Oyun sonu sahnesi
+    //}
 }
