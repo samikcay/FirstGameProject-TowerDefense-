@@ -4,6 +4,7 @@ using UnityEngine;
 public class UIScript : MonoBehaviour
 {
     private TextMeshProUGUI roundText;
+    private TextMeshProUGUI coinText;
 
     private void Start()
     {

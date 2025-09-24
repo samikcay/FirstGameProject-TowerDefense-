@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|c:\\users\\sami\\desktop\\unity projects\\firstgameproject-towerdefense-\\assets\\scripts\\player\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\entities\\enemy\\enemybullethit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\enemy\\enemybullethit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|c:\\users\\sami\\desktop\\unity projects\\firstgameproject-towerdefense-\\assets\\scripts\\player\\playerweaponsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerweaponsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\entities\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\entities\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|c:\\users\\sami\\desktop\\unity projects\\firstgameproject-towerdefense-\\assets\\scripts\\entities\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\entities\\maintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\maintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|c:\\users\\sami\\desktop\\unity projects\\firstgameproject-towerdefense-\\assets\\scripts\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\ui\\uiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\player\\playermovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\player\\playerweaponsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerweaponsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\uiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\entities\\entityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\entityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\entities\\maintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\maintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\player\\playerpropertiesscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerpropertiesscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\assets\\scripts\\ui\\goldvalueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B6E1-8C59-2464-7805-EC948E592B48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\goldvalueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,49 +54,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Weapons.cs",
-              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\Weapons\\Weapons.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Weapons\\Weapons.cs",
-              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\Weapons\\Weapons.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Weapons\\Weapons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Enemy\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T12:49:40.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerWeaponsScript.cs",
-              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
-              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T12:38:03.951Z",
+              "WhenOpened": "2025-09-24T17:31:30.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UIScript.cs",
-              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\UIScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScript.cs",
-              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\UIScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\UI\\UIScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIScript.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\UI\\UIScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T12:00:53.173Z"
+              "WhenOpened": "2025-09-22T19:12:22.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "GoldValueUI.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\UI\\GoldValueUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GoldValueUI.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\UI\\GoldValueUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GoldValueUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T19:11:41.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\CoinScript.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\CoinScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T19:01:47.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerPropertiesScript.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerPropertiesScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPropertiesScript.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerPropertiesScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPropertiesScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:45:40.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyBulletHit.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\Enemy\\EnemyBulletHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Enemy\\EnemyBulletHit.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\Enemy\\EnemyBulletHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Enemy\\EnemyBulletHit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:34:22.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityClass.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\EntityClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\EntityClass.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\EntityClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\EntityClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:58:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerWeaponsScript.cs",
+              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
+              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerWeaponsScript.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:38:03.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainTower.cs",
               "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\MainTower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\MainTower.cs",
@@ -88,7 +166,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Entities\\MainTower.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T11:27:10.869Z"
+              "WhenOpened": "2025-09-21T11:27:10.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,25 +177,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameControllerScript.cs",
               "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\GameControllerScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameControllerScript.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T11:25:33.296Z"
+              "WhenOpened": "2025-09-21T11:25:33.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Entities\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Entities\\EnemyController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T11:24:41.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PlayerMovementScript.cs",
               "DocumentMoniker": "C:\\Users\\sami\\Desktop\\Unity Projects\\FirstGameProject-TowerDefense-\\Assets\\Scripts\\Player\\PlayerMovementScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovementScript.cs",

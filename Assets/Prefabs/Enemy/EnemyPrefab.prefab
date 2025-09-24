@@ -12,10 +12,12 @@ GameObject:
   - component: {fileID: 5320077072858521836}
   - component: {fileID: 3997303140165627757}
   - component: {fileID: 7869945091572501975}
+  - component: {fileID: 5238190088829285657}
   - component: {fileID: 5527672176664983858}
+  - component: {fileID: 4601318920055166327}
   m_Layer: 0
   m_Name: EnemyPrefab
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,6 +113,27 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &5238190088829285657
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4040794570226212457}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.1, y: 2.1, z: 1.1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &5527672176664983858
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133,3 +156,16 @@ MonoBehaviour:
   attackSpeed: 1
   attackRange: 2
   goldValue: 10
+--- !u!114 &4601318920055166327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4040794570226212457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f53ee81649a9e74b84a7375dc2a675c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 2776499837379034756, guid: 29fe7b5b8a43d924a811ed8214b87c77, type: 3}

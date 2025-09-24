@@ -53,8 +53,18 @@ public class EnemyController : EntityClass
 
     private void ChaseTarget()
     {
-        Vector3 direction = (target.transform.position - transform.position).normalized;
-        transform.position += movementSpeed * Time.deltaTime * direction;
+        // Hedefin sadece XZ konumunu al, düþmanýn Y konumunu koru
+        Vector3 targetPos = new Vector3(target.transform.position.x, transform.position.y, target.transform.position.z);
+
+        // Hedefe doðru güvenli bir þekilde ilerle (taþma/overshoot önlenir)
+        transform.position = Vector3.MoveTowards(transform.position, targetPos, movementSpeed * Time.deltaTime);
+
+        Vector3 lookDir = targetPos - transform.position;
+        if (lookDir.sqrMagnitude > 0.0001f)
+        {
+            transform.rotation = Quaternion.LookRotation(lookDir);
+        }
+
         // Animator = walking
     }
 
