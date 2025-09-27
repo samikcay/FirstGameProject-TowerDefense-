@@ -10,7 +10,7 @@ public class EnemyBulletHit : MonoBehaviour
         if (collision.gameObject.CompareTag("Bullet"))
         {
             Destroy(gameObject);
-            Instantiate(coin, transform.position, coin.transform.rotation);
+            Instantiate(coin, transform.position + new Vector3(0f, 0.5f, 0f), coin.transform.rotation);
         }
     }
 }
